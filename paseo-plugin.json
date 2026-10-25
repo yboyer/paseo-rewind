@@ -1,0 +1,8 @@
+{
+  "id": "paseo-rewind",
+  "name": "Paseo Rewind",
+  "description": "Retour au dernier message avec ↑ et confirmation, via le Rewind natif.",
+  "requirements": {
+    "paseo": ">=0.12.0 <0.14.0"
+  }
+}
